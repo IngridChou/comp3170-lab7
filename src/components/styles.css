@@ -1,0 +1,16 @@
+.post-title {
+    margin-bottom: -0.1px;
+}
+
+.post-body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.separator {
+    width: 100%;
+    border: #00e3df 1px solid;
+    margin: 20px 0;
+  }
